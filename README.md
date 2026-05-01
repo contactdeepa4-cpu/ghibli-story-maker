@@ -1,0 +1,1 @@
+# ghibli-story-maker
